@@ -10,7 +10,7 @@ Egg exporter for blender 2.8
 | Materials and textures | No         |
 | Armature animation     | No         |
 | ShapeKeys animation    | No         |
-| NURBS                  | Yes        |
+| NURBS                  | No         |
 | Polygon name           | Yes        |
 | Сollision name         | Yes        |
 | Сollision mask         | Yes        |
