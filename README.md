@@ -21,6 +21,7 @@ There is also an option to opt out of the EGG format instead .blend file. But to
 | Armature animation     | No         |
 | ShapeKeys animation    | No         |
 | NURBS                  | No         |
+| Include Egg            | Yes        |
 | Polygon name           | Yes        |
 | Сollision name         | Yes        |
 | Сollision mask         | Yes        |
