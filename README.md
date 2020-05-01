@@ -2,4 +2,8 @@
 
 Egg exporter for blender 2.8
 
-Panda3D engine models file
+## Supported
+| Description      | Can import | 
+|------------------|:----------:|
+| Source models    | Yes        | 
+| Animation paths  | Yes        | 
