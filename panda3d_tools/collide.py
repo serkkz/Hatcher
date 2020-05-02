@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 import bpy
 from bpy.props import *
 from bpy.types import (PropertyGroup)
@@ -7,7 +6,7 @@ class Collide(bpy.types.Panel):
 
     bl_idname = "COLLIDE_PT_Panel"
     bl_label = "Collide"
-    bl_category = "Hather"
+    bl_category = "Hatcher"
     bl_space_type = 'VIEW_3D'
     bl_region_type = 'UI'
     bl_options = {'DEFAULT_CLOSED'}

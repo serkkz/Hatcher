@@ -6,7 +6,7 @@ from .globals import selfaces
 class Polygons(bpy.types.Panel):
     bl_idname = "POLYGON_PT_Panel"
     bl_label = "Polygon"
-    bl_category = "Hather"
+    bl_category = "Hatcher"
     bl_space_type = 'VIEW_3D'
     bl_region_type = 'UI'
     bl_options = {'DEFAULT_CLOSED'}

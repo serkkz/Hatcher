@@ -6,7 +6,7 @@ from bpy.types import (PropertyGroup)
 class Vertexs(bpy.types.Panel):
     bl_idname = "VERTEX_PT_Panel"
     bl_label = "Vertex"
-    bl_category = "Hather"
+    bl_category = "Hatcher"
     bl_space_type = 'VIEW_3D'
     bl_region_type = 'UI'
     bl_options = {'DEFAULT_CLOSED'}

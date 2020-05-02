@@ -9,7 +9,7 @@ There is also an option to opt out of the EGG format instead .blend file. But to
 
 ## Concept
 
-![Image alt](https://github.com/serkkz/Hatcher-2.8/blob/master/Diagram.png)
+![Image alt](https://github.com/serkkz/res/blob/master/diagram.png)
 
 
 ## Supported exporting

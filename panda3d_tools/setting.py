@@ -8,7 +8,7 @@ class Setting(bpy.types.Panel):
 
     bl_idname = "SETTING_PT_Panel"
     bl_label = "Setting export"
-    bl_category = "Hather"
+    bl_category = "Hatcher"
     bl_space_type = 'VIEW_3D'
     bl_region_type = 'UI'
     

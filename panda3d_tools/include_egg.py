@@ -26,7 +26,7 @@ class Include(bpy.types.Panel):
 
     bl_idname = "INCLUDES_PT_Panel"
     bl_label = "Includes egg"
-    bl_category = "Hather"
+    bl_category = "Hatcher"
     bl_space_type = 'VIEW_3D'
     bl_region_type = 'UI'
     bl_options = {'DEFAULT_CLOSED'}
