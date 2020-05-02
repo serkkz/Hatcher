@@ -5,8 +5,8 @@ bl_info = {"name": "Tools",
            "blender": (2, 80, 0),
            "location": "UI", 
            "warning": "alpha testing", 
-           "wiki_url": "", 
-           "tracker_url": "",
+           "wiki_url": "https://github.com/serkkz/Hatcher/wiki", 
+           "tracker_url": "https://github.com/serkkz/Hatcher/issues",
            "category": "Panda3D"}
 
 import bpy, bpy_types, bmesh
