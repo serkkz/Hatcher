@@ -1,7 +1,7 @@
 bl_info = {"name": "Tools", 
            "description": "Tools", 
            "author": "serg-kkz", 
-           "version": (0, 6),
+           "version": (0, 7),
            "blender": (2, 80, 0),
            "location": "UI", 
            "warning": "alpha testing", 
